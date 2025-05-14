@@ -1,4 +1,4 @@
-# 🌐 Language Detection using Multinomial Naive Bayes
+# 🌐 Language Detection using Multinomial Naive Bayes Model
 
 This project is a simple but effective **Language Detection System** built with Python using the **Multinomial Naive Bayes** algorithm. It identifies the language of a given text input from among 22 supported languages.
 
